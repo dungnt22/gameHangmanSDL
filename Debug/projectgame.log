@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\ASUS\Downloads\projectgame\projectgame\main.cpp(61,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ASUS\Downloads\projectgame\projectgame\main.cpp(250,79): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  projectgame.vcxproj -> C:\Users\ASUS\Downloads\projectgame\Debug\projectgame.exe
